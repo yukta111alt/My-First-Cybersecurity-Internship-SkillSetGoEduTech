@@ -1,0 +1,56 @@
+Week 1 - Security Foundations
+Overview
+During Week 1 of my Cybersecurity Internship at Skill Set Go EduTech, I developed a strong foundation in networking,
+Linux security, threat analysis, and basic security assessment techniques through both theoretical learning and hands-on practice.
+
+Topics Covered:-
+Networking Fundamentals
+OSI Model
+TCP/IP Model
+TCP Three-Way Handshake
+TCP vs UDP
+Common Network Protocols
+Well-Known Ports and Services
+IPv4 and IPv6 Addressing
+MAC Addresses
+Network Communication Basics
+Threat & Vulnerability Identification
+Introduction to Cybersecurity Threats
+Types of Threats and Vulnerabilities
+Malware and Attack Vectors
+Risk Assessment Concepts
+Threat Identification Techniques
+Vulnerability Assessment Basics
+WHOIS Lookup
+Nmap Fundamentals
+Basic Reconnaissance Activities
+Linux & System Security
+Linux User Management
+User and Group Creation
+Password Management
+File Permissions
+Ownership and Access Control
+chmod Command
+chown Command
+System Hardening Fundamentals
+SELinux
+Firewalld
+Cryptographic Policies
+Security Best Practices
+Hands-On Activities
+Performed network discovery using Nmap
+Conducted basic port scanning
+Practiced WHOIS lookups
+Created and managed Linux users and groups
+Modified file permissions and ownership
+Explored SELinux configurations
+Worked with Firewalld rules
+Applied basic system hardening techniques
+Tools Used
+Nmap
+WHOIS
+Red Hat Enterprise Linux (RHEL)
+Linux Command Line
+Learning Outcome: 
+By completing Week 1, I gained foundational knowledge of computer networking, Linux security administration, threat and vulnerability identification, and basic security assessment techniques. 
+These skills provide the groundwork for advanced cybersecurity concepts and future hands-on security projects.
